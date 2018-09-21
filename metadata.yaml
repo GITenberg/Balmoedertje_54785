@@ -1,11 +1,16 @@
 _repo: Balmoedertje_54785
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54785-h/images/backcover.jpg
 creator:
   author:
     agent_name: Overduijn-Heyligers, E.
     gutenberg_agent_id: '48044'
     url: http://www.gutenberg.org/2009/agents/48044
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54785#Balmoedertje
 gutenberg_issued: '2017-05-25'
 gutenberg_type: Text
 identifiers:
